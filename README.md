@@ -5,6 +5,7 @@ This repository is dedicated to the task of mass summarization using large langu
 ## Overview
 
 The `Mass_Summarization` repository contains notebooks that demonstrate the use of llama2 models for summarizing large datasets. These notebooks are designed to be used with Google Colab and Runpod, making it easy for users to run and modify the code according to their needs.
+![mass_summary](https://github.com/NisaarAgharia/Mass_Summarization/assets/22457544/f5af3a91-a5b3-4006-8316-e554c8ff98d6)
 
 ## Notebooks
 
